@@ -1,5 +1,2 @@
-spring:
-  application:
-    name: config-dev master
 config:
  info: "cccccccc"
