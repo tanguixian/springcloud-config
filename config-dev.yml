@@ -2,4 +2,4 @@ spring:
   application:
     name: config-dev master
 config:
- info: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+ info: "11111111111111111111"
